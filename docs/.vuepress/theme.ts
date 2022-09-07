@@ -51,7 +51,7 @@ export default hopeTheme({
   plugins: {
     blog: {
       autoExcerpt: true,
-      filter: (page) => page.title.search("生活富能量周刊") != -1
+      filter: (page) => page.title.search("生活富能量") != -1
     },
 
     // 如果你不需要评论，可以直接删除 comment 配置，
