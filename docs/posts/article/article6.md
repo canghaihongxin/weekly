@@ -8,6 +8,7 @@ tag:
   - tag A
   - tag B
 star: 10
+article: false
 ---
 
 # 文章 6

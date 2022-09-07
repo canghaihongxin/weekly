@@ -10,8 +10,8 @@ actions:
     link: /guide/
     type: primary
 
-  - text: 博客主页 🏠
-    link: /
+  # - text: 博客主页 🏠
+  #   link: /
 
 features:
   - title: Markdown 增强

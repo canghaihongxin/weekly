@@ -6,6 +6,9 @@ category:
 tag:
   - tag A
   - tag B
+
+article: false
+sticky: 4
 ---
 
 # 文章 1

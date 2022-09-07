@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
 
   author: {
-    name: "Mr.Hope",
+    name: "生活富能量",
     url: "https://mrhope.site",
   },
 
@@ -31,38 +31,14 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
-    description: "一个前端开发者",
+    description: "爱科技，爱健康，爱生活",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "https://example.com",
-      Evernote: "https://example.com",
-      Facebook: "https://example.com",
-      Flipboard: "https://example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Gitlab: "https://example.com",
-      Gmail: "https://example.com",
-      Instagram: "https://example.com",
-      Lines: "https://example.com",
-      Linkedin: "https://example.com",
-      Pinterest: "https://example.com",
-      Pocket: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Reddit: "https://example.com",
-      Rss: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
-      Zhihu: "https://example.com",
+      Email: "canghaihongxin@163.com",
+      Gitee: "https://gitee.com/budongfeng/weekly",
+      GitHub: "https://github.com/canghaihongxin",
+      QQ: "690919833",
+      Wechat: "canghaihongxin",
     },
   },
 
@@ -75,6 +51,7 @@ export default hopeTheme({
   plugins: {
     blog: {
       autoExcerpt: true,
+      filter: (page) => page.title.search("生活富能量周刊") != -1
     },
 
     // 如果你不需要评论，可以直接删除 comment 配置，

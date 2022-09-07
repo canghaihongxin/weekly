@@ -7,6 +7,7 @@ category:
 tag:
   - tag A
   - tag B
+article: false
 ---
 
 # 文章 5
