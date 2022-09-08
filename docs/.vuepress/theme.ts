@@ -26,7 +26,7 @@ export default hopeTheme({
 
   footer: "默认页脚",
 
-  displayFooter: true,
+  displayFooter: false,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
@@ -61,11 +61,11 @@ export default hopeTheme({
       /**
        * Using Giscus
        */
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      // provider: "Giscus",
+      // repo: "vuepress-theme-hope/giscus-discussions",
+      // repoId: "R_kgDOG_Pt2A",
+      // category: "Announcements",
+      // categoryId: "DIC_kwDOG_Pt2M4COD69",
 
       /**
        * Using Twikoo
@@ -76,8 +76,8 @@ export default hopeTheme({
       /**
        * Using Waline
        */
-      // provider: "Waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      provider: "Waline",
+      serverURL: "https://weekly-waline-pvsifemc2-canghaihongxin.vercel.app/",
     },
 
     mdEnhance: {
