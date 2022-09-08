@@ -2,10 +2,9 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar([
   "/",
-  "/home",
-  "/slides",
+  // "/home",
   {
-    text: "如何使用",
+    text: "指南",
     icon: "creative",
     prefix: "/guide/",
     link: "/guide/",

@@ -2,8 +2,9 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/home",
-  { text: "使用指南", icon: "creative", link: "/guide/" }
+  // "/home",
+  { text: "TBoot开发脚手架", icon: "creative", link: "/tboot/" },
+  { text: "周边商店", link: "https://shop108037867.taobao.com/"}
 ]);
 
 // 原始案件，可以参考使用
