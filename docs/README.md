@@ -1,9 +1,8 @@
 ---
-
 home: true
 layout: Blog
 icon: home
-title: 博客主页
+title: 富能量半月刊
 heroImage: /logo.svg
 heroText: 生活富能量
 heroFullScreen: true
@@ -42,19 +41,8 @@ tagline: 生活富能量，让人生充满能量
 
 ---
 
-
 <style>
-.become-sponsor{
-  padding: 8px 20px;
-  display: inline-block;
-  color: #4274F4;
-  border-radius: 30px;
-  box-sizing: border-box;
-  border: 2px solid #4274F4;
-}
-
-.main-right{
-  display: none;
+.friends-content {
 }
 
 .friends-item {
@@ -75,6 +63,8 @@ tagline: 生活富能量，让人生充满能量
 
 
 ###  一起努力的小伙伴们
+
+<div class="friends-content"> 
 
 <div class="friends-item">
     <a href="https://www.hutool.cn" target="_blank">
@@ -98,6 +88,13 @@ tagline: 生活富能量，让人生充满能量
 </div>
 
 
+<div class="friends-item">
+    <a href="https://vampireachao.gitee.io/" target="_blank">
+        <img :src="$withBase('https://waibi.oss-cn-chengdu.aliyuncs.com/2020-06-01/head.jpg')" class="no-zoom friends-item-img" alt="hutool">
+    </a>
+</div>
 
+
+</div>
 
 
