@@ -10,6 +10,15 @@ category:
 
 功能齐全的java开发脚手架,包含功能Activiti工作流
 
+
+
+### 产品初心:grin:
+
+```
+主要是用于学习目的，以实战为目的整合一些前后端常用组件
+让大家在工作当中遇到类似的功能可以有一些地方去复制粘贴。
+```
+
 ### 产品介绍
 
 
@@ -26,6 +35,18 @@ category:
 
 工作流
 
+
+
  ### 产品截图
 
+![image.png](https://s2.loli.net/2022/09/13/xoj5DQgZ3fmJTu7.png)
 
+![image.png](https://s2.loli.net/2022/09/13/h8oz5NBtaUdqTf7.png)
+
+
+
+![image.png](https://s2.loli.net/2022/09/13/bS9T26cM3ILa7dt.png)
+
+![image.png](https://s2.loli.net/2022/09/13/G8dgT6JrEHboXKF.png)
+
+![image.png](https://s2.loli.net/2022/09/13/nIDVXeHdNcp8mO1.png)
