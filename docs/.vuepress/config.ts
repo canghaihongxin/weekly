@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: "生活富能量",
   description: "生活富能量",
 
-  base: "/weekly/",
+  base: "/",
 
   theme,
 });
