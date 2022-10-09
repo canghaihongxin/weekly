@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://gitee.com/budongfeng/weekly",
+  hostname: "https://github.com/canghaihongxin/weekly",
 
   author: {
     name: "生活富能量",
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "https://gitee.com/budongfeng/weekly",
+  repo: "https://github.com/canghaihongxin/weekly",
 
   docsDir: "demo/src",
 
@@ -35,8 +35,7 @@ export default hopeTheme({
     intro: "/intro.html",
     medias: {
       Email: "canghaihongxin@163.com",
-      Gitee: "https://gitee.com/budongfeng/weekly",
-      GitHub: "https://github.com/canghaihongxin",
+      GitHub: "https://github.com/canghaihongxin/weekly",
       QQ: "690919833",
       Wechat: "canghaihongxin",
     },

@@ -12,7 +12,7 @@
 
 #### 怎么参与
 
-欢迎投稿，推荐或自荐文章/软件/资源，[请提交issues](https://gitee.com/budongfeng/weekly/issues) 。
+欢迎投稿，推荐或自荐文章/软件/资源，[请提交issues](https://github.com/canghaihongxin/weekly/issues) 。
 
 
 
