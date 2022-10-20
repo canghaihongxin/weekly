@@ -8,7 +8,7 @@ category:
 
 ## TBoot脚手架介绍
 
-功能齐全的java开发脚手架,包含功能Activiti工作流
+TBoot前后端分离开发平台springBoot 2.x iview 前后端分离_vue_集成activiti工作流 iview admin 动态数据权限 权限按钮显示 spring security elasticsearch 分布式限流_同步锁
 
 
 
