@@ -9,11 +9,10 @@ category: TBoot脚手架
 ## 部署手册
 
 
-### 前端
+### 前端 
 
 npm install 安装前端依赖
 npm run dev 启动项目
-
 
 ### 后端
 
