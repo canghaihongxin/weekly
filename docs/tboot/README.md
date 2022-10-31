@@ -8,9 +8,7 @@ category:
 
 ## TBoot脚手架介绍
 
-TBoot前后端分离开发平台springBoot 2.x iview 前后端分离_vue_集成activiti工作流 iview admin 动态数据权限 权限按钮显示 spring security elasticsearch 分布式限流_同步锁
-
-
+TBoot前后端分离开发平台springBoot 2.x 前后端分离_vue_集成activiti工作流 动态数据权限 权限按钮显示 spring security elasticsearch 分布式限流_同步锁
 
 ### 获取方式: 
 
@@ -28,6 +26,12 @@ TBoot前后端分离开发平台springBoot 2.x iview 前后端分离_vue_集成a
 主要是用于学习目的，以实战为目的整合一些前后端常用组件
 让大家在工作当中遇到类似的功能可以有一些地方去复制粘贴。
 ```
+
+### 开发进展
+
+目前正在使用Vben admin对前端进行重构！ 前端将拥抱vue3
+
+
 
 ### 产品介绍
 
