@@ -3,7 +3,6 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   // "/home",
-  { text: "TBoot开发脚手架", icon: "creative", link: "/tboot/" },
   { text: "周边商店", link: "https://shop108037867.taobao.com/"}
 ]);
 
