@@ -1,9 +1,17 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
+  // "/",
   // "/home",
+  { text: "生活富能量周刊",
+   icon: "creative",
+    link: "/weekly/README.md" ,
+    activeMatch: "^/weekly/$"
+  },
+  { text: "架构师之路", icon: "creative", link: "/guide/README.md" },
   { text: "周边商店", link: "https://shop108037867.taobao.com/"}
+
+
 ]);
 
 // 原始案件，可以参考使用

@@ -62,8 +62,8 @@ tagline: 生活富能量，让人生充满能量
 </style>
 
 
-###  一起努力的小伙伴们
-
+<!-- ###  一起努力的小伙伴们 -->
+<!-- 
 <div class="friends-content"> 
 
 <div class="friends-item">
@@ -95,6 +95,6 @@ tagline: 生活富能量，让人生充满能量
 </div>
 
 
-</div>
+</div> -->
 
 
