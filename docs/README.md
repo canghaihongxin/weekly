@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: home
 title: 富能量半月刊
-heroImage: /logo.svg
+# heroImage: /logo.svg
 heroText: 生活富能量
 heroFullScreen: true
 tagline: 生活富能量，让人生充满能量

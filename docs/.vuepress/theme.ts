@@ -80,7 +80,14 @@ export default hopeTheme({
     },
 
     mdEnhance: {
-      enableAll: true,
+        // 启用 figure
+        figure: true,
+        // 启用图片懒加载
+        imgLazyload: true,
+        // 启用图片标记
+        imgMark: true,
+        // 启用图片大小
+        imgSize: true,
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
