@@ -50,6 +50,8 @@ export default hopeTheme({
   plugins: {
     blog: {
       autoExcerpt: true,
+
+      
       filter: (page) => page.title.search("生活富能量") != -1
     },
 
