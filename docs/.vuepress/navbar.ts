@@ -8,7 +8,12 @@ export default navbar([
     link: "/weekly/README.md" ,
     activeMatch: "^/weekly/$"
   },
-  { text: "架构师之路", icon: "creative", link: "/guide/README.md" },
+  { 
+    text: "架构师之路", 
+    icon: "creative",
+    link: "/guide/README.md",
+    activeMatch: "^/weekly/$"
+  },
   { text: "周边商店", link: "https://shop108037867.taobao.com/"}
 
 
