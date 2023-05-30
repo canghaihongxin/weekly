@@ -1,22 +1,31 @@
 ---
 home: true
-layout: Blog
-icon: home
-title: 富能量半月刊
-# heroImage: /logo.svg
-heroText: 生活富能量
-heroFullScreen: true
-tagline: 生活富能量，让人生充满能量
-# projects:
-#   - icon: project
-#     name: 项目名称
-#     desc: 项目详细描述
-#     link: https://你的项目链接
+# layout: Blog
+# icon: home
+title: 主页
+heroImage: /logo.svg
+# heroText: 生活富能量
+# heroFullScreen: true
+# tagline: 生活富能量，让人生充满能量
 
-#   - icon: link
-#     name: 链接名称
-#     desc: 链接详细描述
-#     link: https://链接地址
+
+features:
+  - title: 面试宝典
+    icon: fab fa-markdown
+    details: 经典面经，八股文
+    link: /guide/
+
+  - title: HUTOOL
+    icon: fab fa-markdown
+    details: Hutool是一个小而全的Java工具类库，让Java语言也可以“甜甜的”。
+    link: https://www.hutool.cn/
+
+  - title: HUTOOL网址导航
+    icon: fab fa-markdown
+    details: 可以自己写CSS的网址导航
+    link: https://nav.hutool.cn/
+
+
 
 #   - icon: book
 #     name: 书籍名称
@@ -41,7 +50,7 @@ tagline: 生活富能量，让人生充满能量
 
 ---
 
-<style>
+<!-- <style>
 .friends-content {
 }
 
@@ -59,7 +68,7 @@ tagline: 生活富能量，让人生充满能量
   max-width:150px !important;
   height: 100%;
 }
-</style>
+</style> -->
 
 
 <!-- ###  一起努力的小伙伴们 -->
