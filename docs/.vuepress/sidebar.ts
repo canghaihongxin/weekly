@@ -69,6 +69,7 @@ export default sidebar([
     // 必要的，分组的子项目
     children: [
       "可见性，有序性，原子性的问题.md" /* /foo/index.html */,
+      "如何解决可见性和有序性问题.md"
     ],
   }
 ]);

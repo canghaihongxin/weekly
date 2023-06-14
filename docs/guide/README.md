@@ -8,4 +8,8 @@ category:
 
 
 
-- [并发编程](/guide/ConcurrentProgramming/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E5%B9%B6%E5%8F%91.md)
+### 并发编程
+介绍java并发编程相关的知识
+
+- [可见性，有序性，原子性的问题](/guide/ConcurrentProgramming/可见性，有序性，原子性的问题.md)
+- [Happens-Before解决可见性问题](/guide/ConcurrentProgramming/如何解决可见性和有序性问题.md)
