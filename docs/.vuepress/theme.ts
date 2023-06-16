@@ -49,9 +49,6 @@ export default hopeTheme({
 
   plugins: {
     blog: {
-      autoExcerpt: true,
-
-      
       filter: (page) => page.title.search("生活富能量") != -1
     },
 
@@ -78,7 +75,7 @@ export default hopeTheme({
        * Using Waline
        */
       provider: "Waline",
-      serverURL: "https://weekly-waline-pvsifemc2-canghaihongxin.vercel.app/",
+      serverURL: "https://weekly-waline-te8i-669g9tf5u-canghaihongxin.vercel.app/",
     },
 
     mdEnhance: {
