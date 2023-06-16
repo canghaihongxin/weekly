@@ -70,6 +70,7 @@ export default sidebar([
     // 必要的，分组的子项目
     children: [
       "简介.md" /* /foo/index.html */,
+      "数据库设计.md" /* /foo/index.html */,
     ],
   },{
     // 必要的，分组的标题文字
