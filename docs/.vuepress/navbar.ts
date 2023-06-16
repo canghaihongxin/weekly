@@ -9,7 +9,7 @@ export default navbar([
     activeMatch: "^/weekly/$"
   },
   { 
-    text: "面试指南", 
+    text: "程序员指南", 
     icon: "creative",
     link: "/guide/README.md",
     activeMatch: "^/weekly/$"
